@@ -9,4 +9,5 @@
 * A Card that provides a five day forecast 
 *links:
 git hub link:https://github.com/niyati7892/Weather-Dashboard
+github page: https://niyati7892.github.io/Weather-Dashboard/
 
